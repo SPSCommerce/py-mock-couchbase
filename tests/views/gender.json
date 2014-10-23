@@ -1,0 +1,3 @@
+{
+    "map": "function (doc, meta) {\n            emit(doc.gender, null);\n        }"
+}

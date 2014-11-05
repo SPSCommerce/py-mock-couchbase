@@ -1,11 +1,2 @@
---extra-index-url https://repo.fury.io/NqvNFCysuFzM847zBn88/spscommerce/
-Django==1.6.2
-logstash-formatter==0.5.8
-redis==2.9.1
-django-cors-headers==0.12
-djangorestframework==2.3.13
 couchbase==1.2.2
-elasticsearch==1.0.0
-newrelic==2.18.1.15
-django-rest-swagger==0.1.14-sps
-git+git://github.com/SPSCommerce/py-babymaker.git
+py-babymaker==1.0.0

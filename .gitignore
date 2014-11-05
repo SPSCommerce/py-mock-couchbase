@@ -1,2 +1,4 @@
 .coverage
 *.pyc
+dist
+py_mock_couchbase.egg-info
